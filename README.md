@@ -2,6 +2,5 @@
 
 integrantes - 
 
-Jonatan Jacó Mascalhusk de Oliveira Souza
--
-Rodrigo Gonzalo Barbosa Segura
+1 - Jonatan Jacó Mascalhusk de Oliveira Souza
+2 - Rodrigo Gonzalo Barbosa Segura
